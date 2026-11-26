@@ -61,9 +61,16 @@ Foram estabelecidas diretrizes para:
 
 **Importante:** o arquivo exportado do workflow não contém necessariamente todas as credenciais e configurações externas necessárias. A reprodução depende da configuração correta dessas integrações.
 
+## 🚀 Demonstração
+
+Quer experimentar o AI - Assistente de consulta?
+Acesse o ambiente de demonstração e faça suas próprias consultas.
+
+👉 https://organizador1.app.n8n.cloud/webhook/68c262c5-efbb-45bf-8e63-b680743239fc/chat
+
 ## 💬 Exemplos de perguntas
 
-O projetp permite consultar informações dos departamentos por meio de perguntas em linguagem natural. Abaixo estão exemplos baseados nas informações disponíveis nas planilhas integradas.
+O projeto permite consultar informações dos departamentos por meio de perguntas em linguagem natural. Abaixo estão exemplos baseados nas informações disponíveis nas planilhas integradas.
 
 ### 📊 Gestão de Projetos
 
