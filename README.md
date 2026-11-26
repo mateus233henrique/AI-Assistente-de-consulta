@@ -61,6 +61,66 @@ Foram estabelecidas diretrizes para:
 
 **Importante:** o arquivo exportado do workflow não contém necessariamente todas as credenciais e configurações externas necessárias. A reprodução depende da configuração correta dessas integrações.
 
+## 💬 Exemplos de perguntas
+
+O projetp permite consultar informações dos departamentos por meio de perguntas em linguagem natural. Abaixo estão exemplos baseados nas informações disponíveis nas planilhas integradas.
+
+### 📊 Gestão de Projetos
+
+- Quais são as tarefas cadastradas no projeto?
+- Quantas tarefas estão concluídas?
+- Quais atividades estão em andamento?
+- Existem tarefas atrasadas?
+- Quais atividades estão bloqueadas?
+- Quem é o responsável pela tarefa de implementar o banco de dados?
+- Qual é o prazo para publicar a versão em produção?
+- Em qual fase está a tarefa de executar os testes de integração?
+- Qual é o progresso geral do projeto?
+- Quais atividades ainda estão aguardando execução?
+
+### 💻 Gestão de Projetos de Tecnologia
+
+- Quais projetos estão cadastrados atualmente?
+- Quais projetos estão em andamento?
+- Quais projetos estão em situação de risco?
+- Qual é o progresso do projeto Migração Cloud AWS?
+- Quanto foi previsto e quanto já foi gasto no projeto Zero Trust & IAM?
+- Quais projetos apresentam saldo orçamentário negativo?
+- Quais tarefas estão atrasadas?
+- Quais tarefas estão bloqueadas?
+- Quais atividades pertencem à Sprint 14?
+- Quem é responsável pela tarefa de configurar o WAF e CloudFront CDN?
+- Qual é a capacidade semanal de Thiago Mendes?
+- Quais integrantes da equipe estão com sobrecarga?
+- Qual squad possui a maior quantidade de horas alocadas?
+- Apresente um resumo dos indicadores do Painel Executivo.
+
+### 👥 Recursos Humanos
+
+- Quantos colaboradores estão cadastrados?
+- Quantos colaboradores estão ativos?
+- Como está distribuída a quantidade de colaboradores por departamento?
+- Quais são os cargos existentes no departamento de Tecnologia?
+- Quais colaboradores estão de férias ou afastados?
+- Quais férias estão pendentes de aprovação?
+- Quais ausências estão aprovadas para dezembro de 2026?
+- Quantas vagas estão disponíveis para recrutamento?
+- Quais vagas estão em fase de entrevistas?
+- Quais vagas possuem prioridade alta?
+- Quais são os departamentos com vagas abertas?
+- Qual é o resumo dos indicadores do Dashboard de RH?
+
+### 🔎 Consultas específicas e informações indisponíveis
+
+- Existe algum projeto chamado Projeto Inexistente?
+- Existe algum colaborador chamado João Inexistente?
+- Há informações sobre treinamentos de colaboradores?
+- Qual é o orçamento registrado para o projeto Migração Cloud AWS?
+- Quais informações estão disponíveis sobre a tarefa T-07?
+- Existem informações sobre uma atividade que não esteja cadastrada nas planilhas?
+
+**Observação:** o assistente deve responder com base nos registros encontrados. Quando uma informação não estiver disponível nas planilhas, deve informar essa limitação em vez de gerar uma resposta presumida.
+
 ## 👨‍💻 Autor
 
 Desenvolvido como projeto de estudo e portfólio, explorando aplicações de Inteligência Artificial Generativa, automação de processos, integração de sistemas e qualidade de software.
