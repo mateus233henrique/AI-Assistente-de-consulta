@@ -1,4 +1,4 @@
-#AI — Assistente de Consultas
+# AI — Assistente de Consultas
 
 Assistente inteligente multiárea desenvolvido com **n8n, Google Gemini e Model Context Protocol (MCP)**, integrado ao Google Sheets para consultar informações dos setores de **Gestão de Projetos, Recursos Humanos (RH) e Tecnologia** por meio de linguagem natural.
 
