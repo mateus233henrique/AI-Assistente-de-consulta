@@ -2,7 +2,7 @@
 
 ## 1. Política de acesso
 
-O ProjectPilot AI foi projetado para realizar exclusivamente consultas às informações disponibilizadas pelas ferramentas MCP.
+O AI-Assistente de Consulta foi projetado para realizar exclusivamente consultas às informações disponibilizadas pelas ferramentas MCP.
 
 ## 2. Restrições
 
