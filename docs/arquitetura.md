@@ -1,8 +1,8 @@
-# Arquitetura do ProjectPilot AI
+# Arquitetura do AI - Assistente de consulta
 
 ## 1. Visão geral
 
-O ProjectPilot AI é um assistente de Inteligência Artificial desenvolvido na plataforma n8n, utilizando o Google Gemini como modelo de linguagem e o Model Context Protocol (MCP) para disponibilizar ferramentas de consulta de dados.
+O AI - Assistente de consulta é um assistente de Inteligência Artificial desenvolvido na plataforma n8n, utilizando o Google Gemini como modelo de linguagem e o Model Context Protocol (MCP) para disponibilizar ferramentas de consulta de dados.
 
 O sistema permite consultar informações organizadas em planilhas Google Sheets, distribuídas entre três áreas:
 
@@ -27,7 +27,7 @@ Os resultados retornados são utilizados como base para construir a resposta.
 
 ## 4. Restrição operacional
 
-O ProjectPilot AI possui finalidade exclusivamente consultiva.
+O AI - Assistente de consulta possui finalidade exclusivamente consultiva.
 
 Não são permitidas operações de criação, atualização ou exclusão de registros nas fontes de dados.
 
